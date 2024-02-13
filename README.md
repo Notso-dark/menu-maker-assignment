@@ -18,6 +18,9 @@ A menu has the following structure :
     - Category 7
 
 
+![Menu structure example](./docs/uber_published_menu.png)
+
+
 An Item has the following structure
 - Item 
     - Modifier Group 1
